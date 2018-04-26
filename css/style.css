@@ -711,7 +711,7 @@ Responsive media queries
 }
 @media (min-width: 20px) and (max-width: 450px) {
     .text-dec {
-    font-size: 20px;
+    font-size: 36px;
     }
     .big-text {
     font-size: 30px;
